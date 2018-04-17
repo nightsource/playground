@@ -1,2 +1,2 @@
-# ArduinoTryouts
-Todos os testes em arduino
+# Playground
+Todos os testes em hardware e codigo desorganizado
